@@ -1,4 +1,4 @@
 hackathon1
 ==========
 
-Ist hackathon project
+1st hackathon project
